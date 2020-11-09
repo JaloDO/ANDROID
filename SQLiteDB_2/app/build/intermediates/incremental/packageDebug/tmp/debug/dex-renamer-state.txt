@@ -1,0 +1,4 @@
+#Fri Nov 29 10:18:00 CET 2019
+base.0=/home/alumnodiurno/AndroidStudioProjects/SQLiteDB_2/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

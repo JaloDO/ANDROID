@@ -1,0 +1,80 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.diaz_obregon_alejandro_practica1"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET " />
+11-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:6:22-65
+12
+13    <application
+13-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:8:5-34:19
+14        android:allowBackup="true"
+14-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:9:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.0.1] C:\Users\jaliy\.gradle\caches\transforms-2\files-2.1\68cda5fb769a6af8d2ede2fd17a312b1\core-1.0.1\AndroidManifest.xml:22:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:10:9-43
+18        android:label="@string/app_name"
+18-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:11:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:12:9-54
+20        android:supportsRtl="true"
+20-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:13:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.AppCompat" >
+22-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:14:9-47
+23        <activity
+23-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:15:9-17:20
+24            android:name="com.example.diaz_obregon_alejandro_practica1.GameActivity"
+24-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:15:19-47
+25            android:theme="@style/Theme.AppCompat.NoActionBar" >
+25-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:16:19-69
+26        </activity>
+27        <activity android:name="com.example.diaz_obregon_alejandro_practica1.ScoreBoardActivity" />
+27-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:18:9-56
+27-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:18:19-53
+28        <activity android:name="com.example.diaz_obregon_alejandro_practica1.AyudaActivity" />
+28-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:19:9-51
+28-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:19:19-48
+29        <activity android:name="com.example.diaz_obregon_alejandro_practica1.MenuActivity" />
+29-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:20:9-50
+29-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:20:19-47
+30        <activity android:name="com.example.diaz_obregon_alejandro_practica1.ConfigActivity" />
+30-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:21:9-52
+30-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:21:19-49
+31        <activity
+31-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:22:9-29:20
+32            android:name="com.example.diaz_obregon_alejandro_practica1.InicioActivity"
+32-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:22:19-49
+33            android:theme="@style/Theme.AppCompat.NoActionBar" >
+33-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:23:19-69
+34            <intent-filter>
+34-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:24:13-28:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:25:17-69
+35-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:25:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:27:17-77
+37-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:27:27-74
+38            </intent-filter>
+39        </activity>
+40
+41        <meta-data
+41-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:31:9-33:57
+42            android:name="preloaded_fonts"
+42-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:32:13-43
+43            android:resource="@array/preloaded_fonts" />
+43-->C:\Users\jaliy\Documents\AndroidStudioProjects\Diaz_Obregon_Alejandro_Practica1\app\src\main\AndroidManifest.xml:33:13-54
+44    </application>
+45
+46</manifest>

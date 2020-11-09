@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_trip.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-xhdpi\\trip.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_menu.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\layout\\layout_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fragmento9.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\drawable\\fragmento9.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\raw_animal_criatura_chillido.mp3.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\raw\\animal_criatura_chillido.mp3"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_trip_background.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\trip_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fragmento11.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\drawable\\fragmento11.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fragmento2.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\drawable\\fragmento2.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttonshape.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\drawable\\buttonshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_trip_background.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\trip_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_layout_menu.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\layout-sw600dp\\layout_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_layout_inicio.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\layout-land\\layout_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_layout_inicio.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\layout-sw600dp\\layout_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_game.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\layout\\layout_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\raw_analog_fx_4.mp3.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\raw\\analog_fx_4.mp3"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo2.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\drawable\\fondo2.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fragmento6.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\drawable\\fragmento6.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_scoreboard.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\layout\\layout_scoreboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_ayuda.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\layout\\layout_ayuda.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_btn_bien.jpg.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\drawable-v24\\btn_bien.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_trip_round.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-xhdpi\\trip_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_trip_round.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-mdpi\\trip_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fragmento3.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\drawable\\fragmento3.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_alientrip.jpeg.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\drawable-v24\\alientrip.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_trip_foreground.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-xxxhdpi\\trip_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_trip_round.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-xxhdpi\\trip_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_trip.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-anydpi-v26\\trip.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fragmento10.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\drawable\\fragmento10.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_layout_game.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\layout-sw600dp\\layout_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_trip_background.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\trip_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_trip_round.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-xxxhdpi\\trip_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_trip_foreground.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-mdpi\\trip_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_trip_background.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\trip_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_neutro.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\drawable\\btn_neutro.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_inicio.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\layout\\layout_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_trip_foreground.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-xxhdpi\\trip_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_trip_background.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\trip_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_trip_foreground.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-hdpi\\trip_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fragmento7.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\drawable\\fragmento7.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_trip.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-xxxhdpi\\trip.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_load_gif.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\drawable\\load_gif.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_btn_mal.jpg.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\drawable-v24\\btn_mal.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_config.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\menu\\menu_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\raw_whoosh.mp3.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\raw\\whoosh.mp3"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fragmento4.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\drawable\\fragmento4.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_trip_round.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-hdpi\\trip_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_trip.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-hdpi\\trip.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_layout_game.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\layout-land\\layout_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\raw_beepsbonksboinks_3.mp3.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\raw\\beepsbonksboinks_3.mp3"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_trip.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-mdpi\\trip.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fragmento1.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\drawable\\fragmento1.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\font_unlock.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\font\\unlock.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\xml_configuracion.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\xml\\configuracion.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_trip.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-xxhdpi\\trip.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_trip_foreground.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-xhdpi\\trip_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_layout_menu.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\layout-land\\layout_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fragmento12.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\drawable\\fragmento12.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fragmento8.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\drawable\\fragmento8.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\drawable\\fondo.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fragmento5.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\drawable\\fragmento5.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_trip_background.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\trip_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_layout_ayuda.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\layout-land\\layout_ayuda.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\font_asset.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\font\\asset.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_layout_ayuda.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\layout-sw600dp\\layout_ayuda.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_trip_background.png.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\trip_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_layout_scoreboard.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\layout-sw600dp\\layout_scoreboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_trip_round.xml.flat",
+        "source": "C:\\Users\\jaliy\\Documents\\AndroidStudioProjects\\Diaz_Obregon_Alejandro_Practica1\\app\\src\\main\\res\\mipmap-anydpi-v26\\trip_round.xml"
+    }
+]

@@ -1,0 +1,33 @@
+com/example/diaz_obregon_alejandro_practica1/AdapterDB.java
+ com.example.diaz_obregon_alejandro_practica1.AdapterDB
+com/example/diaz_obregon_alejandro_practica1/ConfigActivity.java
+ com.example.diaz_obregon_alejandro_practica1.ConfigActivity
+com/example/diaz_obregon_alejandro_practica1/MenuActivity.java
+ com.example.diaz_obregon_alejandro_practica1.MenuActivity
+ com.example.diaz_obregon_alejandro_practica1.MenuActivity$1
+ com.example.diaz_obregon_alejandro_practica1.MenuActivity$1$1
+ com.example.diaz_obregon_alejandro_practica1.MenuActivity$2
+ com.example.diaz_obregon_alejandro_practica1.MenuActivity$3
+com/example/diaz_obregon_alejandro_practica1/BuildConfig.java
+ com.example.diaz_obregon_alejandro_practica1.BuildConfig
+com/example/diaz_obregon_alejandro_practica1/ScoreBoardActivity.java
+ com.example.diaz_obregon_alejandro_practica1.ScoreBoardActivity
+ com.example.diaz_obregon_alejandro_practica1.ScoreBoardActivity$1
+ com.example.diaz_obregon_alejandro_practica1.ScoreBoardActivity$2
+com/example/diaz_obregon_alejandro_practica1/GameActivity.java
+ com.example.diaz_obregon_alejandro_practica1.GameActivity
+ com.example.diaz_obregon_alejandro_practica1.GameActivity$1
+ com.example.diaz_obregon_alejandro_practica1.GameActivity$2
+ com.example.diaz_obregon_alejandro_practica1.GameActivity$3
+ com.example.diaz_obregon_alejandro_practica1.GameActivity$4
+ com.example.diaz_obregon_alejandro_practica1.GameActivity$5
+ com.example.diaz_obregon_alejandro_practica1.GameActivity$6
+ com.example.diaz_obregon_alejandro_practica1.GameActivity$7
+com/example/diaz_obregon_alejandro_practica1/InicioActivity.java
+ com.example.diaz_obregon_alejandro_practica1.InicioActivity
+ com.example.diaz_obregon_alejandro_practica1.InicioActivity$1
+com/example/diaz_obregon_alejandro_practica1/DataBase.java
+ com.example.diaz_obregon_alejandro_practica1.DataBase
+com/example/diaz_obregon_alejandro_practica1/AyudaActivity.java
+ com.example.diaz_obregon_alejandro_practica1.AyudaActivity
+ com.example.diaz_obregon_alejandro_practica1.AyudaActivity$1
